@@ -1,6 +1,7 @@
 {
   "name": "pomodoro-chrono",
   "version": "0.1.0",
+  "homepage": "https://amarbouabbache.com/applications/pomodoro-chrono/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
